@@ -1,5 +1,3 @@
-print("Hola mundo")
+from Animaciones.inicio import animacion_inicio
 
-print("Este es un ejemplo de código en Python")
-
-print("prueba")
+animacion_inicio()
